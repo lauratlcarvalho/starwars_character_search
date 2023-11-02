@@ -1,0 +1,24 @@
+.navbar-ul {
+    list-style: none;
+    padding: 0;
+    border: solid;
+    border-color: black;
+    /* border-radius: 5%; */
+    padding: 0.5rem;
+    display: flex;
+    align-items: center;
+    margin: 2rem;
+    background-color: black;
+  }
+
+  .nav-item {
+    display: inline; 
+    margin-right: 10px;
+  }
+  
+  .navbar-ul a {
+    text-decoration: none;
+    color: #eaf90f;
+    font-weight: bold;
+
+  }
